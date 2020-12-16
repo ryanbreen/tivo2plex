@@ -1,6 +1,6 @@
 # TiVo2Plex
 
-Given files exported from cTiVo, convert them to mp4s, embed metadata, and move into a Plex library.
+Given files exported from cTiVo, convert them to mp4s, embed metadata, and move into a Plex library.  I know cTiVo can do all this stuff, but I prefer to have heavy processing tasks done by something other than my laptop.
 
 ## Prerequisites
 
@@ -34,4 +34,4 @@ On my Mac, I mount `space` and point cTiVo at `/Volumes/space/tivo/kids` if I wa
 
 ## Future Plans
 
-- [ ] Support multiple relative paths so that I can export tv shows and movies for my two sets of libraries in Plex (parents and kids, in my case).
+- [x] Support multiple relative paths so that I can export tv shows and movies for my two sets of libraries in Plex (parents and kids, in my case).
